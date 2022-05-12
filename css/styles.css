@@ -1,0 +1,19 @@
+h1{
+  color: blue;
+}
+
+img:hover{
+  background-color: red;
+}
+
+
+.jalebi{
+  background-color: green;
+}
+.jalebi2{
+  border-radius: 50%;
+}
+
+#heading{
+  color : red;
+}
